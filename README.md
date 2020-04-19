@@ -2,7 +2,7 @@
 
 [![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-A simple Bluetooth Power widget for [Übersicht](http://tracesof.net/uebersicht) using the colors from [Monokai Faded](https://dionmunk.com/projects/monokai-faded/).
+A simple Bluetooth Power widget for [Übersicht](http://tracesof.net/uebersicht) using the colors from [Monokai Faded](https://dionmunk.com/projects/monokai-faded/). This widget displays your bluetooth devices and their battery level.
 
 ## Screenshot
 
